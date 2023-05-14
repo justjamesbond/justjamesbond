@@ -6,7 +6,7 @@
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=memte&theme=radical&hide_border=false)<br/>
 ---
-![tools](https://skillicons.dev/icons?i=js,html,css,python,github,nodejs,vscode)
+![](https://skillicons.dev/icons?i=js,html,css,python,github,nodejs,vscode)
 ---
 ![](https://komarev.com/ghpvc/?username=JamesBondee&color=6607ce)
 ---
