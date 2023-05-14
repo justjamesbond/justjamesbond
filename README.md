@@ -8,7 +8,11 @@
 ---
 **Languages**:
 ---
-![](https://skillicons.dev/icons?i=js,html,css,python,c#)
+![](https://skillicons.dev/icons?i=js,html,css,tailwind,react,python,c#)
+---
+**Tools**:
+---
+![](https://skillicons.dev/icons?i=github,nodejs,vscode,mongo)
 ---
 ![](https://komarev.com/ghpvc/?username=JamesBondee&color=6607ce)
 ---
