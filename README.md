@@ -12,7 +12,7 @@
 ---
 **Tools**:
 ---
-![](https://skillicons.dev/icons?i=github,nodejs,vscode,mongo)
+![](https://skillicons.dev/icons?i=github,nodejs,vscode,mongo,git)
 ---
 ![](https://komarev.com/ghpvc/?username=JamesBondee&color=6607ce)
 ---
