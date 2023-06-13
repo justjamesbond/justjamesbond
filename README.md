@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @JamesBondee
-- 👀 I’m interested in making discord bots
-- 🌱 I’m currently learning discord.js
-- 💞️ I’m looking to collaborate on :D
-- 📫 How to reach me:
+
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=memte&theme=radical&hide_border=false)<br/>
 ---
