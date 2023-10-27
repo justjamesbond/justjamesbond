@@ -2,6 +2,8 @@
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=memte&theme=radical&hide_border=false)<br/>
 ---
+[![](https://lanyard.cnrad.dev/api/577908968458944512)](https://discord.com/users/577908968458944512)
+---
 **Languages**:
 ---
 ![](https://skillicons.dev/icons?i=js,html,css,tailwind,react,python,c#)
