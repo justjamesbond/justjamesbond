@@ -1,6 +1,6 @@
 
 ---
-![](https://github-readme-streak-stats.herokuapp.com/?user=memte&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=justjamesbond&theme=radical&hide_border=false)<br/>
 ---
 [![](https://lanyard.cnrad.dev/api/577908968458944512)](https://discord.com/users/577908968458944512)
 ---
@@ -12,7 +12,7 @@
 ---
 ![](https://skillicons.dev/icons?i=github,nodejs,vscode,mongo,git)
 ---
-![](https://komarev.com/ghpvc/?username=JamesBondee&color=6607ce)
+![](https://komarev.com/ghpvc/?username=justjamesbond&color=6607ce)
 ---
 <!---
 JamesBondee/JamesBondee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
