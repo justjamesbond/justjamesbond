@@ -15,6 +15,6 @@
 ![](https://komarev.com/ghpvc/?username=justjamesbond&color=6607ce)
 ---
 <!---
-JamesBondee/JamesBondee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+justjamesbond/justjamesbond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
