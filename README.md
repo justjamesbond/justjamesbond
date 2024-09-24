@@ -4,6 +4,8 @@
 ---
 [![](https://lanyard.cnrad.dev/api/577908968458944512)](https://discord.com/users/577908968458944512)
 ---
+<img src="https://count.getloli.com/get/@:justjamesbond?theme=neko"><br>
+---
 **Languages**:
 ---
 ![](https://skillicons.dev/icons?i=js,html,css,tailwind,react,python,c#)
