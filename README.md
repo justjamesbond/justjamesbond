@@ -8,7 +8,7 @@
 ---
 **Languages**:
 ---
-![](https://skillicons.dev/icons?i=js,html,css,tailwind,react,python,cs)
+![](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,python,cs,cpp,lua)
 ---
 **Tools**:
 ---
