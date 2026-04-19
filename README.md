@@ -1,6 +1,6 @@
 
 ---
-![](https://github-readme-streak-stats.herokuapp.com/?user=justjamesbond&theme=radical&hide_border=false)<br/>
+[![](https://streak-stats.demolab.com?user=justjamesbond&theme=dark)](https://git.io/streak-stats)<br/>
 ---
 [![](https://lanyard.cnrad.dev/api/577908968458944512)](https://discord.com/users/577908968458944512)
 ---
